@@ -24,3 +24,5 @@ MongoClient.connect('mongodb://localhost:27017/TodoApp', (err, db) => {
 
   // db.close();
 });
+
+// CRUD - Creating, Deleting and UpDating
